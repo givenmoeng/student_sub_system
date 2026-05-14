@@ -1,0 +1,10 @@
+ Id CommandLine                                                                                                     
+  -- -----------                                                                                                     
+   1 try { . "c:\Users\ADMINPC\AppData\Local\Programs\Microsoft VS Code\07ff9d6178\resources\app\out\vs\workbench\...
+   2 ls                                                                                                              
+   3 touch index.html                                                                                                
+   4 touch about.html                                                                                                
+   5 touch history.txt                                                                                               
+   6 ls                                                                                                              
+   7 git add .                                                                                                       
+   8 git commit -m "I have created three more files apart from the two that was there"       
